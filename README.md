@@ -2,6 +2,8 @@
 
 This project began when I wanted to find information about my Polish ancestors. I was soon confronted with a lack of information about my paternal great-grandfather's naturalization. All I had was his letter of declaration to claim French citizenship (Figure below). 
 
+This project requires skills in web scraping, optical character recognition and database management.
+
 <p align="middle">
   <img height="600" 
     src="img/demandeNatFrancais_PAWLAK_Thomasz_recto_1.png"
