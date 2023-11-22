@@ -16,3 +16,8 @@ I know that naturalization decrees are published in the Journal Officiel de la R
 2. Apply an optical character recognition (OCR) algorithm to the PDFs.
 3. Search the text for an occurrence of my paternal great-grandfather's surname.
 
+<p align="middle">
+  <img height="600" 
+    src="img/genealogyPythonWorkflow.png"
+    alt="workflow">
+</p>
